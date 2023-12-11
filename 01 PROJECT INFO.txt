@@ -1,4 +1,4 @@
-**Developed By Divyansh singh sasodiya**
+**Developed By DSH**
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
